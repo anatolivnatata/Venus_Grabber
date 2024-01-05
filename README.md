@@ -1,4 +1,4 @@
-![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
+нужна помощь взлома и сброса данных на ID камере кто осмелится помочь?руководство дало мне поручение взломать собственную камеру так как забыли пароли для входа )![image](https://github.com/hinmis/Venus_grabber/assets/141452638/d2889e19-925a-406c-92d0-73e4af57b98c)
 
 # Venus_builder
 ![image](https://github.com/hinmis/Venus_Grabber/assets/141452638/185444e4-b2a3-45e4-a0e6-2435d5be4ffa)
